@@ -1,0 +1,21 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ EASY AND QUICK SETUP",
+      "title": "Add content and deploy!",
+      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. ",
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/"
+      }
+    }
+
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/aassaintpierre"
+  }
+}
