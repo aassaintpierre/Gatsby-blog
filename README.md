@@ -8,7 +8,7 @@ built on top of Node.js using React and GraphQL.
 The following functionality is completed:
 
 - [x] User can look into different post on the page.
-- [x] User can aclick a post and see the information about it.
+- [x] User can click a post and see the information about it.
 
 
 ## Open-source libraries used
